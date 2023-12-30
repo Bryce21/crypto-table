@@ -1,0 +1,7 @@
+crypto-table.iml
+*.idea/
+*.bsp/
+/src/backend/project/
+/src/backend/target/
+
+/src/backend-api/node_modules
